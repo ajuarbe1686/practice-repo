@@ -1,27 +1,27 @@
-## First Name Last Name
+## Alexandra Juarbe
 
-### Term Year 
+### FA 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Foundations for Academic Success
 
-- Course 2
+- Precalculus
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Intro to Programming Using Python
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Rythm Games
 
-- Thing 2
+- 2D Art
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Computer Science as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
