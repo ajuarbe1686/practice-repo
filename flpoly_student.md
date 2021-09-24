@@ -27,7 +27,7 @@ I am _passionate about_:
 > Last modified: 2021/09/02
 
 
-|## Prefix  | ## Number  | ## Name                                   | ## Credit   |
+|## Prefix  |## Number   |## Name                                    |## Credit    |
 |:---------:|:----------:|:-----------------------------------------:|:-----------:|
 |**MAC**    |**1147**    |_Precalculus Algebra/Trigonomatry_         |4            |
 |**COP**    |**2073**    |_Introduction to Data Science_             |3            |
